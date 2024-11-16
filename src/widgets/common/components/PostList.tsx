@@ -1,8 +1,5 @@
-import { CardUI } from "@/widgets/common/components/CardUI";
-import { IPostView } from "../types/view";
 import { getPostList } from "@/shared/services/post";
-import { Suspense } from "react";
-import CardSkeletonUI from "@/shared/components/common/loading/CardSkeletonUI";
+import { CardUI } from "@/widgets/common/components/CardUI";
 
 interface IProps {
   // postList: IPostView[];

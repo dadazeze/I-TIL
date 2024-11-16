@@ -3,7 +3,7 @@ import { Skeleton } from "@/shared/components/ui/skeleton";
 
 export default function PostSkeletonUI() {
   return (
-    <div className="flex flex-col space-y-3 pl-6 pr-6 h-78">
+    <div className="flex flex-col space-y-3 pl-6 pr-6 h-78 pt-6">
       <AvatarSkeletonUI />
       <Skeleton className="h-[168px] rounded-xl" />
       <div className="space-y-2">
