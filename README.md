@@ -241,6 +241,11 @@
 ![](https://github.com/user-attachments/assets/bbe68102-5b13-45cb-b150-3c0b0283b412) 
 ![](https://github.com/user-attachments/assets/3626cd05-0574-49c1-835c-0d14abf8adaf)
 
+# 협업 툴
+
+- Notion을 사용하여 협업 진행
+![](https://github.com/user-attachments/assets/ef560a5c-b8df-40c7-a4b9-d71841df6d5c)
+
 # 개발 과정
 
 **💡 기술 스택 선정 과정**
